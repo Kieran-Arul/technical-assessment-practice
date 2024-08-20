@@ -1,4 +1,4 @@
-# Technical-assessment-preparation
+# Technical-assessment-practice
 
 ## Project Overview
 - This collaborative repository aims to help people prepare for technical assessments in an organised manner
